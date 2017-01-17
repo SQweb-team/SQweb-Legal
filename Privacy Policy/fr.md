@@ -37,9 +37,12 @@ SQweb surveille rigoureusement l’utilisation qui est faite de son service afin
 
 ##COOKIES
 
-Les sites utilisant SQweb peuvent afficher des publicités aux utilisateurs non abonnés, via leurs partenaires publicitaires, qui peuvent placer leurs propres cookies. La présente politique de confidentialité ne concerne que les cookies utilisés par SQweb, et ne couvre pas l’utilisation de cookies qui peut être faite par des annonceurs publicitaires, ou toute autre tierce partie.
+SQweb utilise des cookies de session pour identifier ses utilisateurs, suivre l’usage qu’ils font du service, et enregistrer leurs préférences de connexion. Notre service ne fonctionnera pas correctement sans l’aide de ces cookies.
 
-SQweb utilise des cookies de session pour identifier ses utilisateurs, suivre l’usage qu’ils font du service, et enregistrer leurs préférences de connexion. Les visiteurs qui ne souhaitent pas recevoir de cookies peuvent paramétrer leurs navigateurs pour les refuser. Toutefois, notre service ne fonctionnera pas correctement sans l’aide de ces cookies.
+Les sites utilisant SQweb, ainsi que leurs partenaires, peuvent recourir à leurs propres cookies, par exemple à des fins publicitaires. Les cookies de tierce partie sont hors du champ d'application de cette politique de confidentialité. **Les éditeurs utilisant notre service s'engagent à désactiver ces dispositifs pour les utilisateurs connectés jouissant d'un abonnement Multipass valide.** Des contrôles réguliers sont effectués.
+
+Les visiteurs qui ne souhaitent pas recevoir de cookies peuvent paramétrer leurs navigateurs pour les refuser en se référant aux instructions fournies par chaque éditeur.
+
 
 ##CESSIONS ET TRANSFERTS D’ACTIVITÉ
 
@@ -57,7 +60,7 @@ Si vous détenez un compte SQweb, vous serez avertis de ces changements via votr
 
 Conformément à la loi « informatique et libertés » du 6 janvier 1978 modifiée en 2004, vous bénéficiez d’un droit d’accès et de rectification aux informations vous concernant, que vous pouvez exercer en vous adressant à hello@sqweb.com.
 
-##ANNEXE : LISTE DES PRESTATAIRES AUTORISÉS A TRAITER DES DONNÉES À CARACTÈRE PERSONNEL POUR LE COMPTE DE SQWEB
+##ANNEXE : PRESTATAIRES AUTORISÉS À TRAITER DES DONNÉES À CARACTÈRE PERSONNEL POUR LE COMPTE DE SQWEB
 
 - Stripe Payments UK, Ltd., Stripe Payments Europe, Ltd., Valitor hf.
 - MailChimp, The Rocket Science Group, LLC.

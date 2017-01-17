@@ -37,9 +37,11 @@ SQweb closely monitors the use of its service to detect suspicious or fraudulent
 
 ##COOKIES
 
-Websites using SQweb may display ads to non-registered users, delivered by their advertising partners, who may set cookies themselves. This Privacy Policy covers the use of cookies by SQweb only and does not cover the use of cookies by any advertisers, or any third parties.
+SQweb uses cookies to identify users, to track their usage of our service and preferences, such as their preferred language of communication. Our service will not function properly without these cookies.
 
-SQweb uses cookies to identify users, to track their usage of our service and preferences, such as their preferred language of communication. SQweb visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using SQweb’s websites. However, our service will not function properly without the aid of cookies.
+Websites using SQweb, along with their partners, may set cookies themselves, for instance to deliver advertising. Third party cookies are outside of the scope of this privacy policy. **Publishers using SQweb commit to disabling these features for logged in users with a valid Multipass subscription.** Regular checks are performed. 
+
+Visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies using the instructions provided by each publisher.
 
 ##BUSINESS TRANSFERS
 
